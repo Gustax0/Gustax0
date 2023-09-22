@@ -1,6 +1,5 @@
 ### Olá! Bem vindo ao meu GitHub 🧑‍🏫
 ##
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div align="center">
   <a href="https://github.com/Gustax0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustax0&show_icons=true&theme=dark"/>
@@ -15,7 +14,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Flask" height="30" width="40" <i class="devicon-flask-original-wordmark colored"></i>
+  <img align="center" alt="Flask" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
 
   ##
   
