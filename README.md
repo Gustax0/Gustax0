@@ -2,8 +2,8 @@ Bem vindo ao meu github, aqui compartilho projetos pessoais/ projetos de escola
 ##
 <div align="center">
   <a href="https://github.com/Gustax0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustax0&show_icons=true&theme=monokai"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustax0&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustax0&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustax0&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
   ##
