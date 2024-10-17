@@ -1,11 +1,9 @@
-Bem vindo ao meu github, aqui compartilho projetos pessoais/ projetos de escola
+Bem vindo ao meu github, aqui compartilho projetos pessoais/ frutos dos meus estudos
 ##
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8b56ba&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustax0;)](https://git.io/typing-svg)
- Learning and getting better in python
-<br>
- I currently work as a Python Freelancer
+Tentando melhorar cada vez mais até encontrar uma oportunidade de usar os meus conhecimentos
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gustax0&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
